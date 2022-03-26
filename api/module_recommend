@@ -1,34 +1,23 @@
 [
-
 {"appName":"情迁机器人(开源,非xposed插件)",
 "install_status":0,
 "packageName":"cn.qssq666.robot",
 "supportUrl":"http://robot.godhand.top",
 "downloadUrl":"http://robot.godhand.top",
 "icon":"",
-"description":"需要q++等实现能力的支持,机器人本身只是一个代理,有需要的开发者可以自行接入实现自己的机器人.",
+"description":"需要类似q++等实现能力的支持,机器人本身只是一个代理,有需要的开发者可以自行接入实现自己的机器人具体可点击查看开发者文档.",
 "versionCode":666,
 "versionName":"3.0.2"},
 
-{"appName":"HOOKUI逆向破解神器",
+{"appName":"HOOKUI逆向分析工具",
 "install_status":0,
-"packageName":"cn.qssq666.hookui",
-"supportUrl":"http://hookui.godhand.top",
-"downloadUrl":"http://hookui.godhand.top",
+"packageName":"lozn.hookui",
+"supportUrl":"http://hookui.lozn.top",
+"downloadUrl":"http://hookui.lozn.top",
 "icon":"",
 "description":"非常强大功能齐全的破解工具,动动手指纯ui操作就能进行一些逆向分析.借助adb或者日志分析更上一层楼,支持hook记忆功能(下载地址在QQ群)",
 "versionCode":666,
 "versionName":"3.0.2"},
-
-{"appName":"支付宝口令自动领取(演示)",
-"install_status":0,
-"packageName":"lozn.test.test",
-"supportUrl":"",
-"downloadUrl":"",
-"icon":"",
-"description":"这只是演示，哈哈，这个东西没得没得，",
-"versionCode":999,
-"versionName":"超级版"},
 
 {"appName":"Q++/qq抢红包软件(2019停更)",
 "install_status":0,
@@ -52,9 +41,7 @@
 "versionName":"1.0.9"}
 ,
 
-
 {"appName":"测试app","icon":"http://ww3.sinaimg.cn/large/610dc034jw1fasakfvqe1j20u00mhgn2.jpg",
 "install_status":0,"packageName":"cn.test.payhelffffperxxxxxx","versionCode":0,"versionName":"1111"}
-
 
 ]
