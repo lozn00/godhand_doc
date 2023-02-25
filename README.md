@@ -32,7 +32,17 @@
    **如果不生效，可以再次强制停止你需要使用的 APP，如QQ**
 
 
+# 相关界面图片
 
+![aaa](https://upload-images.jianshu.io/upload_images/2815884-94cd89791f3131e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![aaa](https://upload-images.jianshu.io/upload_images/2815884-94cd89791f3131e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![4F8AFEB9758B39B75DA8BD023D1E14F2.jpg](https://upload-images.jianshu.io/upload_images/2815884-b234dbbba0f07741.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+![BEFA38748215D4BF73791F866698697F.jpg](https://upload-images.jianshu.io/upload_images/2815884-c8ff70096bc44a7f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 # 注意事项
